@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Career Coach",
+  "description": "An AI-powered platform for college students to prepare for their careers with resume parsing, adaptive tests, personalized recommendations, and an AI career coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
